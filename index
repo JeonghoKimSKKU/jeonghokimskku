@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Jeongho</title>
+</head>
+<body>
+  <h1>Jeongho</h1>
+  <p>Political Science | Chinese Politics | Computational Social Science</p>
+
+  <h2>Research</h2>
+  <ul>
+    <li>Authoritarian governance in China</li>
+    <li>Local government communication</li>
+    <li>Text-as-data and computational social science</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p>Email: your-email@example.com</p>
+</body>
+</html>
